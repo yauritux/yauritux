@@ -1,7 +1,7 @@
 ### Yauri Attamimi
 
 <div id="header">
-  <img src="https://media.giphy.com/media/BTKzZmLNX6FlC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fwWN1z5x11VaLEqMdD/giphy.gif" width="100"/>
 </div>
 
 An experienced software craftsman which has been working in software development since 2003 while he was still pursuing his bachelor degree of Informatics Engineering.
