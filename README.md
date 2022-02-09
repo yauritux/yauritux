@@ -1,6 +1,6 @@
 ### Yauri Attamimi
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/BTKzZmLNX6FlC/giphy.gif" width="100"/>
 </div>
 
