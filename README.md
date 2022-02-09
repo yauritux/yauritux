@@ -1,5 +1,9 @@
 ### Yauri Attamimi
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/BTKzZmLNX6FlC/giphy.gif" width="100"/>
+</div>
+
 An experienced software craftsman which has been working in software development since 2003 while he was still pursuing his bachelor degree of Informatics Engineering.
 He's been involved in all stages of software architectural design, software development, implementation, and integration life-cycle. 
 Having intensive technical experiences on desktop and web applications, web services, batch and stream processing, middleware/messaging, EIP (Enterprise Integration Patterns), data engineering and infrastructure automation. 
