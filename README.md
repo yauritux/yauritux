@@ -9,7 +9,7 @@ An experienced software craftsman which has been working in the software develop
 Currently, he's based in Jakarta while working remotely for some overseas Companies around middle-east and asia-pasific.
 
 During his leisure time, he's also like to train in MMA (Mixed-Martial Arts) to train his body, mind, and spirit. 
-In fact, He's also an active director for [ISKA Indonesia which](https://iskaindonesia.com) is an official organization that runs under international ISKA to serves as the world’s most well recognized sanctioning and regulatory body for combat sports and competitive martial arts such as Kickboxing, Muaythai, Sanda, MMA, and Freestyle Boxing.
+In fact, He's also an active director for [ISKA Indonesia](https://iskaindonesia.com) which is an official organization that runs under international ISKA to serves as the world’s most well recognized sanctioning and regulatory body for combat sports and competitive martial arts such as Kickboxing, Muaythai, Sanda, MMA, and Freestyle Boxing.
 
 ---
 
