@@ -38,3 +38,5 @@ In fact, He's also an active director for [ISKA Indonesia](https://iskaindonesia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yauritux&layout=compact&theme=vision-friendly-dark&langs_count=10)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yauritux&show_icons=true&theme=radical&count_private=true&hide=contribs)
+
