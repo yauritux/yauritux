@@ -36,7 +36,6 @@ In fact, He's also an active director for [ISKA Indonesia](https://iskaindonesia
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yauritux&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yauritux&layout=compact&theme=vision-friendly-dark&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yauritux&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github-readme-stats.vercel.app)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yauritux&show_icons=true&theme=radical&count_private=true&hide=contribs)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yauritux&show_icons=true&theme=radical&count_private=true&hide=contribs)](https://github-readme-stats.vercel.app)
