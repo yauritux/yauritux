@@ -32,6 +32,9 @@ In fact, He's also an active director for [ISKA Indonesia](https://iskaindonesia
 
 ---
 
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yauritux&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yauritux&layout=compact&theme=darcula)
