@@ -6,6 +6,10 @@
 
 An experienced software craftsman which has been working in the software development since 2003 while he was still an active student on pursuing his bachelor degree of Informatics Engineering. He's been involved in all stages of software architectural design, software development, implementation, and integration life-cycle from different range of Industries such as e-Commerce, Logistics, Telecommunication, FinTech, Oil and Company, Real-Estate Property, etc. Having intensive technical experiences on desktop and web applications, web services, batch and stream processing, middleware/messaging, EIP (Enterprise Integration Patterns), Reactive System, Distributed System like Microservices, Cloud Architecture, Data Engineering and Infrastructure Automation. He loves to learn something in a hard way since he believes that he will get a deep understanding only by learning it in that way. He holds some certificates on Java (SCJP-275, i.e. before Oracle acquired Java from Sun Microsystems), and recently an Enterprise Architecture certification (TOGAF 9.2). His passion is to guide any individuals and organizations to commercial success through the application of modern and bleeding edge technologies. Find out more about his current and passed stack from [Yauri's Tech Radar](https://techradar.yauritux.link)
 
+Two interesting facts:
+1. He built his own Linux OS from scratch using the C language, showcasing his deep technical skills and dedicated to know how a low-level system works.
+2. He has worked in various roles from Software Engineer and Architect to Founder and Co-Founder of startups.
+
 Currently, he's based in Jakarta while working remotely for some overseas Companies around Middle East, Europe and Asia Pasific.
 
 During his leisure time, he's also like to train in MMA (Mixed-Martial Arts) to train his body, mind, and spirit. 
