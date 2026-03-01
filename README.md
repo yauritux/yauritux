@@ -14,6 +14,7 @@ Currently, he's based in Jakarta while working remotely for some overseas Compan
 
 During his leisure time, he's also like to train in MMA (Mixed-Martial Arts) to train his body, mind, and spirit. 
 In fact, He's also an active director for [ISKA Indonesia](https://iskaindonesia.com) which is an official organization that runs under international ISKA to serves as the world’s most well recognized sanctioning and regulatory body for combat sports and competitive martial arts such as Kickboxing, Muaythai, Sanda, MMA, and Freestyle Boxing.
+He's spent the last few months sharpening his skills in Eskrima/Arnis/Kali, adding a new edge to his fighting arsenal.
 
 ---
 
